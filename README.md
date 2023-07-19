@@ -106,3 +106,4 @@ gcc test.c -Wall -Wextra -pedantic -Werror -o test
 - Overuse `switch`es
 - Use `unsigned` when you don't need to.
 - Don't write code that feels like it needs a class...
+- Or code that really should be C++
