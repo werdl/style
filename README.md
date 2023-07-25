@@ -1,3 +1,4 @@
+# Moved to [werdl/utils](https://github.com/werdl/utils)
 ## C-style languages Style Guide
 - Personal usage
 ### Source files
